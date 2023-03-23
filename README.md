@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charan Raj S</h1>
-<h3 align="center">I enjoy crafting stunning, accessible, and responsive websites using ReactJS, JavaScript, TypeScript, Tailwind, Sass, SCSS, CSS, and HTML.</h3>
+<h3 align="center">I enjoy crafting stunning, accessible, and responsive websites using ReactJS, JavaScript, Tailwind, Sass, SCSS, CSS, and HTML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan42003&label=Profile%20views&color=0e75b6&style=flat" alt="charan42003" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently strengthening my **ReactJS** skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
