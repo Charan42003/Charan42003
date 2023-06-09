@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charan Raj S</h1>
+<h1 align="center">Hi, I'm Charan Raj S</h1>
 <h3 align="center">I enjoy crafting stunning, accessible, and responsive websites using ReactJS, JavaScript, Tailwind, Sass, SCSS, CSS, and HTML.</h3>
 
 <br>🌱  I’m currently learning **React Native**<br>
@@ -38,9 +38,10 @@
 <br/>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=charan42003&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charan42003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=charan42003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charan42003&theme=dark&hide_border=false)<br/>
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
