@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Charan Raj S</h1>
-<h3 align="center">I enjoy crafting stunning, accessible, and responsive websites using ReactJS, JavaScript, Tailwind, Sass, SCSS, CSS, and HTML.</h3>
+<h3 align="center">I enjoy crafting stunning, accessible, and responsive websites using ReactJS, TypeScript, JavaScript, Tailwind, Sass, SCSS, CSS, and HTML.</h3>
 
 <br>🌱  I’m currently learning **React Native**<br>
 
@@ -8,7 +8,7 @@
 <a href="https://github.com/Charan42003" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/Charan42003" target="_blank">
+<a href="https://twitter.com/Charan42003" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/charan-raj-493644265/" target="_blank">
