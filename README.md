@@ -37,11 +37,6 @@
 </div>
 <br/>
 
-# GitHub Stats:
-
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=charan42003&theme=dark&hide_border=false)<br/>
-
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
