@@ -1,10 +1,16 @@
-<h1 align="center">Hi, I'm Charan Raj S</h1>
-<h3 align="center">I enjoy crafting stunning, accessible, and responsive websites using ReactJS, TypeScript, JavaScript, Tailwind, Sass, SCSS, CSS, and HTML.</h3>
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Charan Raj S</h1>
 
-<br>🌱  I’m currently learning **React Native**<br>
+### :man_technologist: About Me 
+- 👨‍💻 Pronouns: He/Him
+- 💼 I’m a <strong>Frontend Engineer</strong>
+- 👨‍💻 I love sharing my knowledge on <strong>Frontend Development</strong>. 
+- 🧭 I love exploring and working both in frontend and backend.
+- 🎭 I love attending events and connecting with people.
+- 🌱  I’m currently learning **React Native**<br>
+- 📫 How to reach me: Check social links below.
 
 
-## Socials:
+### :coffee: Hit Me Up Here
 <a href="https://github.com/Charan42003" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,7 +27,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-# Tech Stack:
+### :hammer_and_wrench: Languages and Tools 
 <div >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
@@ -36,7 +42,12 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 <br/>
+### :fire: Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Charan42003)](https://git.io/streak-stats) 
 
+### 📈 Github Stats (Amongst top 50%)
+![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Charan42003&show_icons=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan42003&layout=compact&langs_count=4)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
