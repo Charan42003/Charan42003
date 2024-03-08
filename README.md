@@ -43,11 +43,12 @@
 </div>
 <br/>
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Charan42003)](https://git.io/streak-stats) 
+<br/>
+![GitHub Stats (Amongst top 50%)](http://github-readme-streak-stats.herokuapp.com?user=Charan42003)
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Charan42003&show_icons=true&hide=issues,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan42003&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan42003&layout=compact&langs_count=6)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
