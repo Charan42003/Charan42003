@@ -45,7 +45,7 @@
 ### :fire: Streaks 
 <br/>
 <br/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Charan42003" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Charan42003" /> 
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Charan42003&show_icons=true&hide=issues,prs)
