@@ -49,7 +49,7 @@
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Charan42003&show_icons=true&hide=issues,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan42003&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan42003&layout=compact&langs_count=8)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
